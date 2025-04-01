@@ -5,7 +5,7 @@ Shewhart Control Charts PRO-Analyst +AI
 
 Cross-platform software (SW) utilizing Artificial Intelligence (AI) technologies. The current version of the application already includes more new features compared to the Excel application, and the continuous active development, delivered with updates of new features, will surprise even the most experienced analysts. The application includes a built-in SQLite database. Testing of the software demonstrates incredible speed and ease of working with data.
 
-[Go to](https://advanced-quality-tools.ru/product_shewhart-control-chart-for-python.html)
+[Go to](https://en.advanced-quality-tools.ru/product_shewhart-control-chart-for-python.html)
 
 The applications of Shewhart control charts are limitless, and the analytical methodology of Statistical Process Control (SPC) remains innovative.
 
@@ -20,7 +20,7 @@ The use of Shewhart control charts allows for the identification of production p
 Shewhart control charts are indispensable for improving business processes, the quality of produced goods and services, and enhancing employee efficiency, operating at a new level of decision-making effectiveness that was previously inaccessible—without new equipment and without new personnel¹. The open solutions and articles presented on our website aim to highlight just a few examples of such solutions.
 
 ¹See one of the examples in the open solution "[New Machines, Robotization, and Devices – Not a Panacea!](https://en.advanced-quality-tools.ru/robotization-and-digitalization.html)"
-and one of the explanations in the article "[Right and Wrong Ways to Use Specifications. Sorting or Adjusting?"](https://enadvanced-quality-tools.ru/right-and-wrong-ways-to-use-specifications-djw.html)"
+and one of the explanations in the article "[Right and Wrong Ways to Use Specifications. Sorting or Adjusting?"](https://en.advanced-quality-tools.ru/right-and-wrong-ways-to-use-specifications-djw.html)"
 
 Shewhart control charts are the primary analytical tool of Statistical Process Control (SPC) and are successfully applied in industry, trade, service sectors, healthcare, sports, education, environmental monitoring, insurance, security, government administration, and space (see examples below).
 
